@@ -1,0 +1,11 @@
+# Node
+node_modules
+package-lock.json
+dist
+
+# Editor
+.vscode
+.idea
+
+# Project
+server
